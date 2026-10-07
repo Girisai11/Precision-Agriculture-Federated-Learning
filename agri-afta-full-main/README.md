@@ -1,4 +1,4 @@
-# Agri-AFTA: Microservices-based Agricultural System
+# precision-Agriculture-Federated-Learning
 
 Agri-AFTA is a comprehensive agricultural monitoring and diagnostic system built on a microservices architecture. It integrates IoT data (ESP32), machine learning models for crop prediction, and AI-driven disease diagnosis.
 
